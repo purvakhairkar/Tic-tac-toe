@@ -19,7 +19,6 @@ Players can enter their names, take turns, and the game automatically detects wi
 ## Live Demo
 [Play Now](https://purvakhairkar.github.io/Tic-tac-toe/)
 
-
 ## How to Run Locally
 1. Clone the repository:
    ```bash
