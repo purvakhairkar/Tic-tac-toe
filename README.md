@@ -1,4 +1,4 @@
-# Tic-tac-toe-game
+# Tic-tac-toe
 A browser-based Tic Tac Toe game built with HTML, CSS, and JavaScript
 Players can enter their names, take turns, and the game automatically detects wins or draws.  
 
@@ -17,10 +17,15 @@ Players can enter their names, take turns, and the game automatically detects wi
 
 
 ## Live Demo
-[Play Now](https://purvakhairkar.github.io/tic-tac-toe-game/)
+[Play Now](https://purvakhairkar.github.io/tic-tac-toe/)
 
 
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/purvakhairkar/tic-tac-toe-game.git
+   git clone https://github.com/purvakhairkar/tic-tac-toe.git
+2. Open the folder:
+   ```bash
+   cd tic-tac-toe
+3. Run the game:
+Open tictactoe.html in your web browser.
